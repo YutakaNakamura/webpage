@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140mm"
+   height="131.91685mm"
+   viewBox="0 0 140 131.91685"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="NotDetectableArea.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="139.13301"
+     inkscape:cy="312.03616"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-1928"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.795582,-69.801444)">
+    <g
+       style="stroke-linecap:round;stroke-linejoin:round"
+       id="g900"
+       transform="matrix(1.2933025,0,0,1.2933025,33.624488,66.72042)">
+      <!-- start DynamicDraw object [1], type : FTObjectType::LINE -->
+      <line
+         x1="0.382292"
+         y1="53.382294"
+         x2="100.38229"
+         y2="53.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line824" />
+      <!-- end DynamicDraw object [1], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [2], type : FTObjectType::LINE -->
+      <line
+         x1="25.377756"
+         y1="10.08364"
+         x2="75.386826"
+         y2="96.680946"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line826" />
+      <!-- end DynamicDraw object [2], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [3], type : FTObjectType::LINE -->
+      <line
+         x1="75.386826"
+         y1="10.08364"
+         x2="25.377756"
+         y2="96.680946"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line828" />
+      <!-- end DynamicDraw object [3], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [4], type : FTObjectType::ARC -->
+      <circle
+         cx="50.382294"
+         cy="53.382294"
+         r="40"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         transform="rotate(180,50.382292,53.382292)"
+         id="circle830" />
+      <!-- end DynamicDraw object [4], type : FTObjectType::ARC -->
+      <!-- start DynamicDraw object [5], type : FTObjectType::LINE -->
+      <line
+         x1="27.282291"
+         y1="13.382292"
+         x2="73.482292"
+         y2="13.382292"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line832" />
+      <!-- end DynamicDraw object [5], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [6], type : FTObjectType::LINE -->
+      <line
+         x1="27.382292"
+         y1="93.382294"
+         x2="73.432289"
+         y2="93.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line834" />
+      <!-- end DynamicDraw object [6], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [7], type : FTObjectType::LINE -->
+      <line
+         x1="27.382292"
+         y1="13.482292"
+         x2="4.1322918"
+         y2="53.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line836" />
+      <!-- end DynamicDraw object [7], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [8], type : FTObjectType::LINE -->
+      <line
+         x1="96.732292"
+         y1="53.482292"
+         x2="73.482292"
+         y2="93.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line838" />
+      <!-- end DynamicDraw object [8], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [9], type : FTObjectType::LINE -->
+      <line
+         x1="96.782295"
+         y1="53.382294"
+         x2="73.382294"
+         y2="13.382292"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line840" />
+      <!-- end DynamicDraw object [9], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [10], type : FTObjectType::LINE -->
+      <line
+         x1="27.482292"
+         y1="93.382294"
+         x2="4.0822921"
+         y2="53.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line842" />
+      <!-- end DynamicDraw object [10], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [11], type : FTObjectType::RECT -->
+      <rect
+         x="101.38229"
+         y="49.382294"
+         width="7"
+         height="8"
+         style="fill:none;stroke:none;stroke-width:0.5"
+         id="rect844" />
+      <text
+         style="font-size:4.23333px"
+         id="text852"><tspan
+           style="font-style:italic;font-weight:700;font-size:4.23333px;font-family:'Times New Roman'"
+           id="tspan850"><tspan
+             style="fill:#000000"
+             id="tspan848"><tspan
+               x="103.85703"
+               y="54.719677"
+               id="tspan846">u</tspan></tspan></tspan></text>
+      <!-- end DynamicDraw object [11], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [12], type : FTObjectType::RECT -->
+      <rect
+         x="20.382292"
+         y="2.382292"
+         width="7.5"
+         height="8"
+         style="fill:none;stroke:none;stroke-width:0.5"
+         id="rect854" />
+      <text
+         style="font-size:4.23333px"
+         id="text862"><tspan
+           style="font-style:italic;font-weight:700;font-size:4.23333px;font-family:'Times New Roman'"
+           id="tspan860"><tspan
+             style="fill:#000000"
+             id="tspan858"><tspan
+               x="23.251724"
+               y="7.7196779"
+               id="tspan856">v</tspan></tspan></tspan></text>
+      <!-- end DynamicDraw object [12], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [13], type : FTObjectType::RECT -->
+      <rect
+         x="19.382292"
+         y="96.382294"
+         width="7.5"
+         height="8"
+         style="fill:none;stroke:none;stroke-width:0.5"
+         id="rect864" />
+      <text
+         style="font-size:4.23333px"
+         id="text872"><tspan
+           style="font-style:italic;font-weight:700;font-size:4.23333px;font-family:'Times New Roman'"
+           id="tspan870"><tspan
+             style="fill:#000000"
+             id="tspan868"><tspan
+               x="21.759766"
+               y="101.71968"
+               id="tspan866">w</tspan></tspan></tspan></text>
+      <!-- end DynamicDraw object [13], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [14], type : FTObjectType::LINE -->
+      <line
+         x1="100.38229"
+         y1="53.382294"
+         x2="98.382294"
+         y2="51.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line874" />
+      <!-- end DynamicDraw object [14], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [15], type : FTObjectType::LINE -->
+      <line
+         x1="100.38229"
+         y1="53.382294"
+         x2="98.382294"
+         y2="55.382294"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line876" />
+      <!-- end DynamicDraw object [15], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [16], type : FTObjectType::LINE -->
+      <line
+         x1="25.382292"
+         y1="96.664917"
+         x2="28.114189"
+         y2="95.932289"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line878" />
+      <!-- end DynamicDraw object [16], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [17], type : FTObjectType::LINE -->
+      <line
+         x1="25.382292"
+         y1="96.664917"
+         x2="24.64967"
+         y2="93.933014"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line880" />
+      <!-- end DynamicDraw object [17], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [18], type : FTObjectType::LINE -->
+      <line
+         x1="25.382292"
+         y1="10.082292"
+         x2="24.650526"
+         y2="12.814419"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line882" />
+      <!-- end DynamicDraw object [18], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [19], type : FTObjectType::LINE -->
+      <line
+         x1="25.382292"
+         y1="10.082292"
+         x2="28.11442"
+         y2="10.814056"
+         style="fill:none;stroke:#000000;stroke-width:0.5"
+         id="line884" />
+      <!-- end DynamicDraw object [19], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [20], type : FTObjectType::RECT -->
+      <rect
+         x="69.182289"
+         y="45.982292"
+         width="8.5"
+         height="9.7142859"
+         style="fill:none;stroke:none;stroke-width:0.5"
+         id="rect886" />
+      <text
+         style="font-size:4.23333px"
+         id="text894"><tspan
+           style="font-style:italic;font-weight:700;font-size:4.23333px;font-family:'Times New Roman'"
+           id="tspan892"><tspan
+             style="fill:#000000"
+             id="tspan890"><tspan
+               x="70.292435"
+               y="52.176823"
+               id="tspan888">Vdc</tspan></tspan></tspan></text>
+      <!-- end DynamicDraw object [20], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [21], type : FTObjectType::ARC -->
+      <path
+         d="m 87.382292,53.382292 a 18.5,2.5 0 0 1 -18.5,2.5"
+         style="fill:none;stroke:#000000;stroke-width:0.125"
+         transform="rotate(180,68.882292,53.382292)"
+         id="path896" />
+      <!-- end DynamicDraw object [21], type : FTObjectType::ARC -->
+      <!-- start DynamicDraw object [22], type : FTObjectType::ARC -->
+      <path
+         d="m 78.132292,50.882292 a 18.5,2.5 0 0 1 18.5,2.5"
+         style="fill:none;stroke:#000000;stroke-width:0.125"
+         id="path898" />
+      <!-- end DynamicDraw object [22], type : FTObjectType::ARC -->
+    </g>
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:1.71031"
+       d="m 468.22309,340.63012 c -17.42139,-9.58074 -36.65905,-16.59977 -56.14287,-20.48424 -2.50743,-0.4999 -4.97688,-0.98142 -5.48765,-1.07003 -0.60367,-0.10473 12.76584,-0.16814 38.20248,-0.18118 21.52214,-0.011 39.13116,0.006 39.13116,0.0388 0,0.0324 -2.9123,5.10422 -6.47178,11.27079 -3.55947,6.16657 -6.5418,11.33803 -6.62739,11.49213 -0.13569,0.24432 -0.46904,0.10783 -2.60395,-1.06625 z"
+       id="path1175"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:1.71031"
+       d="m 523.39475,385.68323 c -13.37851,-15.83653 -30.8607,-30.70269 -48.37539,-41.1365 l -2.06839,-1.23218 0.54271,-0.94918 c 4.98773,-8.72333 12.46854,-21.54248 12.55913,-21.52139 0.15045,0.035 39.10222,66.61108 39.02023,66.69306 -0.0335,0.0335 -0.78869,-0.80076 -1.67829,-1.85381 z"
+       id="path1214"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 269.65462,330.70174 c -3.52898,-6.11916 -6.46698,-11.26456 -6.52889,-11.43422 -0.0675,-0.18512 15.19308,-0.29806 38.16027,-0.28241 l 38.27283,0.0261 -5.40323,1.12438 c -19.48781,4.05531 -37.2719,10.49705 -54.36993,19.69384 l -3.71472,1.99809 z"
+       id="path1253"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 224.24025,384.09385 c -0.008,-0.25635 36.05251,-62.15419 36.43028,-62.53273 0.23863,-0.23912 12.31101,20.20711 12.58705,21.31789 0.0667,0.26853 -1.87679,1.71016 -4.82389,3.57818 -15.05925,9.5453 -29.5478,21.70361 -41.27775,34.63892 -1.60006,1.76449 -2.91212,3.11347 -2.91569,2.99774 z"
+       id="path1292"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 149.9979,511.44239 c 0.22059,-0.66177 37.59629,-64.74102 37.70697,-64.6472 0.0614,0.0521 -0.49955,1.97353 -1.24663,4.26989 -6.09802,18.74381 -9.84037,40.24983 -9.84037,56.54927 v 4.17223 h -13.36735 c -8.92941,0 -13.32926,-0.11427 -13.25262,-0.34419 z"
+       id="path1331"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="M 169.18844,548.18159 C 158.8801,530.54415 150.25119,515.74782 150.01309,515.30086 l -0.43291,-0.81267 h 13.51884 13.51885 v 4.17223 c 0,16.25127 3.83718,38.25131 9.83847,56.40776 0.91407,2.76545 1.61977,5.06261 1.56823,5.10479 -0.0515,0.0422 -8.5278,-14.35395 -18.83613,-31.99138 z"
+       id="path1370"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 242.70278,673.82072 c -9.99438,-17.09303 -18.11454,-31.1353 -18.04479,-31.20505 0.0697,-0.0697 2.1337,2.03914 4.58656,4.68643 11.71837,12.6472 26.61391,24.8164 41.42318,33.84145 1.48588,0.90553 2.75675,1.68577 2.82414,1.73387 0.11192,0.0799 -11.96432,21.27138 -12.41997,21.79469 -0.10863,0.12477 -8.37474,-13.75836 -18.36912,-30.85139 z"
+       id="path1409"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 263.12573,706.98827 c 0.0619,-0.18011 2.99616,-5.3269 6.52055,-11.43732 l 6.40798,-11.10986 6.44085,3.32614 c 16.96186,8.75933 33.07311,14.4533 51.9982,18.37698 l 5.40322,1.12024 -38.44168,0.0256 c -24.69023,0.0165 -38.40142,-0.0915 -38.32912,-0.30182 z"
+       id="path1448"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 412.16464,706.14891 c 18.8785,-3.89763 34.14014,-9.26036 51.36773,-18.04991 l 7.12883,-3.63715 6.60302,11.42694 6.60301,11.42694 -38.5529,-0.0256 -38.55291,-0.0256 z"
+       id="path1487"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 479.57717,694.23243 c -3.59925,-6.25414 -6.41062,-11.41584 -6.24748,-11.47043 0.755,-0.25268 10.33971,-6.43671 13.7308,-8.85907 13.74816,-9.82077 26.85428,-21.84772 37.0057,-33.95864 0.62274,-0.74295 1.07791,-1.16736 1.0115,-0.94314 -0.19214,0.64867 -38.60021,66.59684 -38.78757,66.59979 -0.0929,10e-4 -3.1137,-5.11437 -6.71295,-11.36851 z"
+       id="path1526"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 557.69167,582.53504 c 5.50118,-15.1072 9.02735,-29.44127 10.98691,-44.66239 0.58552,-4.54804 0.84776,-7.91608 1.57756,-20.26072 l 0.18467,-3.12374 h 13.67294 13.67294 l -0.66761,1.09753 c -0.36718,0.60364 -9.28961,15.91418 -19.82762,34.02342 -10.53801,18.10924 -19.31431,33.07786 -19.50288,33.2636 -0.23125,0.22777 -0.2628,0.11784 -0.0969,-0.3377 z"
+       id="path1565"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 594.36235,508.54926 c -3.07999,-1.33584 -14.97176,-3.82792 -22.38049,-4.69014 -1.18719,-0.13816 -1.94178,-0.38715 -1.94178,-0.64072 0,-0.22811 -0.15692,-2.45867 -0.34872,-4.9568 -1.27395,-16.59311 -4.59996,-32.82484 -9.96034,-48.6088 -1.02723,-3.02477 -1.8241,-5.54318 -1.77081,-5.59647 0.0908,-0.0908 36.20234,61.43803 37.49997,63.89458 0.67071,1.26972 0.57296,1.323 -1.09783,0.59835 z"
+       id="path1604"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#fab000;fill-opacity:1;stroke:none;stroke-width:3.42062"
+       d="m 570.20761,508.39103 c -0.13367,-1.86755 -0.14876,-3.48982 -0.0335,-3.60506 0.54063,-0.54063 16.41948,2.32236 21.1497,3.81334 2.99329,0.9435 5.87232,2.25633 6.23499,2.84314 0.1431,0.23153 -4.25684,0.34413 -13.44773,0.34413 h -13.66041 z"
+       id="path1643"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 352.9 227.1" style="enable-background:new 0 0 352.9 227.1;" xml:space="preserve">
+<style type="text/css">
+	
+		.st0{fill:none;stroke:#CCCCCC;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.3386;stroke-dasharray:5,2;}
+	.st1{fill:#FAB000;stroke:#BF9902;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.9382,1.9691;}
+	.st4{fill:#FF6090;stroke:#D81B60;stroke-miterlimit:10;}
+	.st5{fill:#80E27E;stroke:#43A047;stroke-miterlimit:10;}
+	.st6{fill:#6EC6FF;stroke:#1E88E5;stroke-miterlimit:10;}
+	.st7{font-family:'Times New Roman';}
+	.st8{font-size:10px;}
+	.st9{fill:none;stroke:#6112FF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.3386;stroke-dasharray:4,2;}
+	.st10{font-size:11px;}
+	.st11{fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.3386;}
+	.st12{fill:none;stroke:#333333;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.3386;}
+	.st13{fill:#222222;stroke:#222222;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.3386;}
+</style>
+<line class="st0" x1="97" y1="28.7" x2="97" y2="216.7"/>
+<line class="st0" x1="323.8" y1="28.7" x2="323.8" y2="216.7"/>
+<line class="st0" x1="210.4" y1="28.7" x2="210.4" y2="216.7"/>
+<rect x="151.3" y="27.4" class="st1" width="4.9" height="189.4"/>
+<rect x="264.5" y="27.4" class="st1" width="5.1" height="189.4"/>
+<g>
+	<g>
+		<line class="st2" x1="153.7" y1="28.7" x2="153.7" y2="30.7"/>
+		<line class="st3" x1="153.7" y1="32.6" x2="153.7" y2="214.8"/>
+		<line class="st2" x1="153.7" y1="215.7" x2="153.7" y2="217.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st2" x1="267.1" y1="28.7" x2="267.1" y2="30.7"/>
+		<line class="st3" x1="267.1" y1="32.6" x2="267.1" y2="214.8"/>
+		<line class="st2" x1="267.1" y1="215.7" x2="267.1" y2="217.7"/>
+	</g>
+</g>
+<path class="st4" d="M197.2,45.7h26.3c0.6,0,1,0.4,1,1V74h-28.3V46.7C196.2,46.1,196.7,45.7,197.2,45.7z"/>
+<path class="st4" d="M83.9,45.7h26.3c0.6,0,1,0.4,1,1V74H82.9V46.7C82.9,46.1,83.3,45.7,83.9,45.7z"/>
+<path class="st5" d="M296.5,85.3h54.7c0.6,0,1,0.4,1,1v27.3h-56.7V86.3C295.5,85.8,295.9,85.3,296.5,85.3z"/>
+<path class="st5" d="M69.7,85.3h54.7c0.6,0,1,0.4,1,1v27.3H68.7V86.3C68.7,85.8,69.1,85.3,69.7,85.3z"/>
+<path class="st6" d="M168.9,125h83c0.6,0,1,0.4,1,1v27.3h-85V126C167.9,125.5,168.3,125,168.9,125z"/>
+<path class="st6" d="M282.3,125h68.9c0.6,0,1,0.4,1,1v27.3h-70.9V126C281.3,125.5,281.7,125,282.3,125z"/>
+<path class="st6" d="M68.7,125h69.9c0.6,0,1,0.4,1,1v27.3H68.7V125z"/>
+<path class="st4" d="M310.6,45.7H337c0.6,0,1,0.4,1,1V74h-28.3V46.7C309.6,46.1,310.1,45.7,310.6,45.7z"/>
+<text transform="matrix(1 0 0 1 2.136230e-04 62.2803)" class="st7 st8">PWM U-phase</text>
+<text transform="matrix(1 0 0 1 2.136230e-04 101.833)" class="st7 st8">PWM V-phase</text>
+<text transform="matrix(1 0 0 1 2.136230e-04 142.0518)" class="st7 st8">PWM W-phase</text>
+<text transform="matrix(1 0 0 1 2.136230e-04 187.1532)" class="st7 st8">PWM Carrier</text>
+<line class="st9" x1="97" y1="199.1" x2="153.7" y2="170.7"/>
+<line class="st9" x1="153.7" y1="170.7" x2="210.4" y2="199.1"/>
+<line class="st9" x1="210.4" y1="199.1" x2="267.1" y2="170.7"/>
+<line class="st9" x1="267.1" y1="170.7" x2="323.8" y2="199.1"/>
+<line class="st9" x1="323.8" y1="199.1" x2="352.2" y2="184.9"/>
+<line class="st9" x1="68.7" y1="184.9" x2="97" y2="199.1"/>
+<text transform="matrix(1 0 0 1 2.136230e-04 211.8375)" class="st7 st8">ADC Trigger</text>
+<text transform="matrix(1 0 0 1 16.3831 9.1414)" class="st7 st10">Current Detectable Area</text>
+<polyline class="st11" points="20.5,14.5 136.7,14.5 147.7,31.6 148.1,32.2 "/>
+<g>
+	<polyline points="148.4,32 150.1,28.7 150.9,36.6 144.1,32.5 147.8,32.4 	"/>
+</g>
+<line class="st12" x1="68.7" y1="153.4" x2="352.2" y2="153.4"/>
+<path class="st5" d="M183.1,85.3h54.7c0.6,0,1,0.4,1,1v27.3h-56.7V86.3C182.1,85.8,182.5,85.3,183.1,85.3z"/>
+<line class="st12" x1="68.7" y1="74" x2="352.2" y2="74"/>
+<line class="st12" x1="68.7" y1="113.7" x2="352.2" y2="113.7"/>
+<polyline class="st12" points="352.5,217 275.5,217 275.5,206.6 267.1,206.6 267.1,217 267.1,217 162.2,217 162.2,206.6 
+	153.7,206.6 153.7,217 68.7,217 "/>
+<polygon class="st13" points="153.7,209.7 152,213.2 155.5,213.2 "/>
+<polygon class="st13" points="267.1,209.7 265.4,213.2 268.8,213.2 "/>
+</svg>
