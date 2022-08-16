@@ -56,7 +56,7 @@ $$
 $$
 を作用させると、
 $$
-\bm{v_{\gamma\delta}} = R \bm{i_{\gamma\delta}} + ( s\bm{I} + \omega \bm{J} ) (L_i \bm{I} + L_m \bm{Q}(\theta_\gamma)) \bm{i_{\gamma\delta}} + ( s\bm{I} + \omega \bm{J} ) \bm{u}(\theta_\gamma) \begin{pmatrix}\phi\\ 0\\ \end{pmatrix} \tag{3}
+\bm{v_{\gamma\delta}} = R \bm{i_{\gamma\delta}} + ( s\bm{I} + \omega_\gamma \bm{J} ) (L_i \bm{I} + L_m \bm{Q}(\theta_\gamma)) \bm{i_{\gamma\delta}} + ( s\bm{I} + \omega_\gamma \bm{J} ) \bm{u}(\theta_\gamma) \begin{pmatrix}\phi\\ 0\\ \end{pmatrix} \tag{3}
 $$
 を得る。
 
