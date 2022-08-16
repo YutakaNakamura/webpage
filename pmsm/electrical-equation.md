@@ -102,9 +102,32 @@ M & M & L
 \tag{3} 
 $$
 
+### 補足
+回転子の有無によりLの値が変化する。磁気経路内にある物体の透磁率に依存する。  
+透磁率は空気、珪素鋼板でそれぞれ$1.25 \times 10^{-6}$[H/m]、$5.0 \times 10^{-3}$[H/m]程度と異なる。  
+よってこのセクションのLは、以後出現する回転子を含むPMSMのモデルに含まれたLとは値が異なる事に注意する。
+
 # SPMSMの電圧方程式
 SPMSMは回転子にリラクタンス(磁気抵抗)の変動が存在しないモータである。
-
+$$
+\begin{equation}
+\begin{split}
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \begin{pmatrix}
+L & M & M \\
+M & L & M \\
+M & M & L
+\end{pmatrix}
+\bm{i_{uvw}}
++ s \Phi
+\begin{pmatrix}
+\cos{(\theta)}\\
+\cos{(\theta + \frac{2\pi}{3})}\\
+\cos{(\theta - \frac{2\pi}{3})}\\
+\end{pmatrix}\\
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{i,uvw}} + s \bm{\phi_{m,uvw}}
+\end{split}
+\end{equation}
+$$
 
 # uvw軸の電圧方程式
 uvw軸の電圧方程式は、

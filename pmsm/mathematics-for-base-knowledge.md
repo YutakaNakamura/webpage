@@ -8,6 +8,19 @@ metaDescription: "This is the meta description motor page"
 
 # 準備中
 
+# 微分演算子とラプラス変換
+$f(t)$のラプラス変換を$F(s)$とするとき、
+$f(t)$に作用する微分演算子$\frac{d}{dt}$は、$F(s)$と$s$の積に対応する。
+$$
+\begin{CD}
+   f(t) @>\frac{d}{dt}>> \frac{d}{dt}f(t) \\
+@V\mathcal{L}VV @VV\mathcal{L}V \\
+   F(s) @>s>> sF(s)
+\end{CD}
+$$
+以後、特別な理由が無い限り$\frac{d}{dt}$も$s$と表記する。  
+混在するが、作用する関数の引数や定義域を考えれば両者の区別は自明である。
+
 # 2次元実数空間と複素数の対応
 
 $$
@@ -26,7 +39,13 @@ $$
 $$
 と定義する。  
 複素数$x + jy \in \mathbb{C}$に$x\bm{I}+y\bm{J}$を対応させると、複素数における和と積は行列における和と積に対応する。即ち、演算として同系となる。
-
+$$
+\begin{CD}
+\mathbb{R}^2 \ni A @>x\bm{I}+y\bm{J}>> B \in \mathbb{R}^2\\
+@VVV @VVV \\
+\mathbb{C} \ni  z @>x + jy>> w \in \mathbb{C}
+\end{CD}
+$$
 この性質を利用すると、モータ制御に頻出する$\bm{I}$と$\bm{J}$による演算は、一旦複素数に置き換えて、複素数の上で演算し、最後に$\mathbb{R}^2$に戻すことで計算が簡単になる。
 
 ### 例
