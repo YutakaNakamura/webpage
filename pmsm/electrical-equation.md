@@ -28,14 +28,17 @@ v &= Ri + s(\phi_{L} + \phi_{l}) \\
 \end{aligned}
 $$
 
-このとき固定子の電圧方程式は次式となる。
+このとき$\bm{\phi}$を鎖交磁束とし、固定子の電圧方程式は次式となる。
 $$
+\begin{aligned}
+\bm{v} &= R \bm{i} + s \bm{\phi} \\
+
 \begin{pmatrix}
 v_u\\
 v_v\\
 v_w\\
 \end{pmatrix} 
-= R 
+&= R 
 \begin{pmatrix}
 i_u\\
 i_v\\
@@ -47,8 +50,10 @@ i_w\\
 \phi_v\\
 \phi_w\\
 \end{pmatrix}
+\end{aligned}
 \tag{1} 
 $$
+
 $$
 \begin{aligned}
 \begin{pmatrix}
@@ -85,33 +90,33 @@ M & M & L
 i_u\\
 i_v\\
 i_w\\
-\end{pmatrix}
+\end{pmatrix}\\
+
+\bm{\phi} &= \bm{L} \bm{i}  
 \end{aligned}
 $$
+
 $$
-\bm{v} = R \bm{i} + s \bm{\phi} 
+\bm{v} = R \bm{i} + s \bm{L} \bm{i}  
 \tag{2} 
 $$
-$$
-\bm{v} = R \bm{i} + s \begin{pmatrix}
-L & M & M \\
-M & L & M \\
-M & M & L
-\end{pmatrix}
-\bm{i}
-\tag{3} 
-$$
+
 
 ### 補足
-回転子の有無によりLの値が変化する。磁気経路内にある物体の透磁率に依存する。  
+- $s\bm{L}\bm{i}$は、$\frac{d}{dt}(\bm{L}\bm{i})$である事に注意する。
+- 回転子の有無によりLの値が変化する。磁気経路内にある物体の透磁率に依存する。  
 透磁率は空気、珪素鋼板でそれぞれ$1.25 \times 10^{-6}$[H/m]、$5.0 \times 10^{-3}$[H/m]程度と異なる。  
 よってこのセクションのLは、以後出現する回転子を含むPMSMのモデルに含まれたLとは値が異なる事に注意する。
 
 # SPMSMの電圧方程式
-SPMSMは回転子にリラクタンス(磁気抵抗)の変動が存在しないモータである。
+SPMSMは回転子にリラクタンス(磁気抵抗)の変動が存在しないモータである。  
+合計の磁束$\bm{\phi_{all,uvw}}$とは、固定子反作用磁束$\bm{\phi_{i,uvw}}$と回転子の永久磁束により発生する磁束$\bm{\phi_{m,uvw}}$の和となる。
 $$
 \begin{equation}
 \begin{split}
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{all,uvw}}\\
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{i,uvw}} + s \bm{\phi_{m,uvw}}\\
+
 \bm{v_{uvw}} &= R \bm{i_{uvw}} + s \begin{pmatrix}
 L & M & M \\
 M & L & M \\
@@ -124,7 +129,35 @@ M & M & L
 \cos{(\theta + \frac{2\pi}{3})}\\
 \cos{(\theta - \frac{2\pi}{3})}\\
 \end{pmatrix}\\
-\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{i,uvw}} + s \bm{\phi_{m,uvw}}
+
+\end{split}
+\end{equation}
+$$
+
+# SPMSMの電圧方程式
+IPMSMは回転子にリラクタンス(磁気抵抗)の変動が存在するモータである。
+回転子の形状の対称性から、リラクタンスの変動は$2\theta$の関数となる。  
+
+合計の磁束$\bm{\phi_{all,uvw}}$とは、固定子反作用磁束$\bm{\phi_{i,uvw}}$と回転子の永久磁束により発生する磁束$\bm{\phi_{m,uvw}}$の和となる。
+$$
+\begin{equation}
+\begin{split}
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{all,uvw}}\\
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{i,uvw}} + s \bm{\phi_{m,uvw}}\\
+
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \begin{pmatrix}
+L(2\theta) & M(2\theta) & M(2\theta) \\
+M(2\theta) & L(2\theta) & M(2\theta) \\
+M(2\theta) & M(2\theta) & L(2\theta)
+\end{pmatrix}
+\bm{i_{uvw}}
++ s \Phi
+\begin{pmatrix}
+\cos{(\theta)}\\
+\cos{(\theta + \frac{2\pi}{3})}\\
+\cos{(\theta - \frac{2\pi}{3})}\\
+\end{pmatrix}\\
+
 \end{split}
 \end{equation}
 $$
