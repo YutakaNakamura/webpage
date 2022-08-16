@@ -7,6 +7,104 @@ metaDescription: "This is the meta description motor page"
 ここではPMSMの電圧方程式について解説する。  
 
 # 準備中
+簡単のために、まずは固定子のみの電気的特性を考察する。後に回転子込みの電気的特性を導く。
+
+# 固定子の電圧方程式
+ここでは固定子の電気的構造を考える。  
+$v$、$i$、$\phi$をそれぞれ電圧、電流、磁束として、抵抗とインダクタを直列に接続したR-L負荷の電圧方程式は次式となる。
+$$
+\begin{aligned}
+v &= Ri + sLi \\
+  &= Ri + s\phi
+\end{aligned}
+$$
+固定子では、3相巻線として3対のR-Lが、Y結線もしくはΔ結線で接続される。以後、簡単のためY結線とする。
+
+主磁束を$\phi_{L}$、漏れ磁束を$\phi_{l}$、各々に対応するインダクタンスを$L$、$l$とする。このとき短絡する磁束を考慮する。
+$$
+\begin{aligned}
+v &= Ri + s(\phi_{L} + \phi_{l}) \\
+  &= Ri + s(L + l)i
+\end{aligned}
+$$
+
+このとき固定子の電圧方程式は次式となる。
+$$
+\begin{pmatrix}
+v_u\\
+v_v\\
+v_w\\
+\end{pmatrix} 
+= R 
+\begin{pmatrix}
+i_u\\
+i_v\\
+i_w\\
+\end{pmatrix}
+ + s 
+\begin{pmatrix}
+\phi_u\\
+\phi_v\\
+\phi_w\\
+\end{pmatrix}
+\tag{1} 
+$$
+$$
+\begin{aligned}
+\begin{pmatrix}
+\phi_u\\
+\phi_v\\
+\phi_w\\
+\end{pmatrix} 
+&= \begin{pmatrix}
+\cos{(0)} (\phi_{Lu} + \phi_{lu}) & \cos{(\frac{2\pi}{3})} \phi_{Lv} & \cos{(\frac{-2\pi}{3})} \phi_{Lw} \\
+\cos{(\frac{-2\pi}{3})} \phi_{Lu}  & \cos{(0)} (\phi_{Lv} + \phi_{lv}) & \cos{(\frac{2\pi}{3})} \phi_{Lw} \\
+\cos{(\frac{2\pi}{3})} \phi_{Lu} & \cos{(\frac{-2\pi}{3})} \phi_{Lv} & \cos{(0)} (\phi_{Lw} + \phi_{lw})
+\end{pmatrix} \\
+&= \begin{pmatrix}
+\phi_{Lu} + \phi_{lu} & -\frac{1}{2} \phi_{Lv} & -\frac{1}{2} \phi_{Lw} \\
+-\frac{1}{2} \phi_{Lu} & \phi_{Lv} + \phi_{lv} & -\frac{1}{2} \phi_{Lw} \\
+-\frac{1}{2} \phi_{Lu} & -\frac{1}{2} \phi_{Lv} & \phi_{Lw} + \phi_{lw}
+\end{pmatrix} \\
+&= \begin{pmatrix}
+L_u + l_u & -\frac{1}{2}L_v & -\frac{1}{2} L_w \\
+-\frac{1}{2} L_u & L_v + l_v & -\frac{1}{2} L_w \\
+-\frac{1}{2} L_u & -\frac{1}{2} L_v & L_w + l_w
+\end{pmatrix}
+\begin{pmatrix}
+i_u\\
+i_v\\
+i_w\\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+L & M & M \\
+M & L & M \\
+M & M & L
+\end{pmatrix}
+\begin{pmatrix}
+i_u\\
+i_v\\
+i_w\\
+\end{pmatrix}
+\end{aligned}
+$$
+$$
+\bm{v} = R \bm{i} + s \bm{\phi} 
+\tag{2} 
+$$
+$$
+\bm{v} = R \bm{i} + s \begin{pmatrix}
+L & M & M \\
+M & L & M \\
+M & M & L
+\end{pmatrix}
+\bm{i}
+\tag{3} 
+$$
+
+# SPMSMの電圧方程式
+SPMSMは回転子にリラクタンス(磁気抵抗)の変動が存在しないモータである。
+
 
 # uvw軸の電圧方程式
 uvw軸の電圧方程式は、
