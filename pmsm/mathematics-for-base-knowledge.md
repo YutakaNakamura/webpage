@@ -141,8 +141,16 @@ u_n \\
 \frac{1}{\sqrt{2}}
 \begin{pmatrix}
 u_1 + ju_2 \\
-u_n - ju_2 \\
+u_1 - ju_2 \\
 \end{pmatrix}
 $$
 
 このとき、$u_p$を$\bm{u}$の正相成分、$u_n$を$\bm{u}$の逆相成分と呼ぶ。
+
+$$
+\begin{CD}
+\mathbb{R}^2 \ni \bm{u} @>f>> \bm{y} \in \mathbb{R}^2\\
+@VV\bm{U}V @AA{}^t\!\bm{U}A \\
+\mathbb{C}^2 \ni  \bm{u_{pn}} @>g>> \bm{y_{pn}} \in \mathbb{C}^2
+\end{CD}
+$$

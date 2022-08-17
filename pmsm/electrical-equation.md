@@ -165,7 +165,14 @@ $$
 # uvw軸の電圧方程式
 uvw軸の電圧方程式は、
 $$
-\bm{v_{uvw}} = R \bm{i_{uvw}} + s \bm{\phi_{all}} \tag{1}
+\begin{equation}
+\begin{split}
+
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{all}} \\
+\bm{v_{uvw}} &= R \bm{i_{uvw}} + s \bm{\phi_{i,uvw}} + s \bm{\phi_{m,uvw}}
+
+\end{split}
+\end{equation}
 $$
 となる。
 
@@ -187,12 +194,21 @@ v_{\beta}\\
 \end{pmatrix}
 = \bm{v_{\alpha\beta}} = \bm{S} \bm{v_{uvw}}
 $$
+
 $$
 \begin{pmatrix}
 i_{\alpha}\\
 i_{\beta}\\
 \end{pmatrix}
 = \bm{i_{\alpha\beta}} = \bm{S} \bm{i_{uvw}}
+$$
+
+$$
+\begin{pmatrix}
+\phi_{\alpha}\\
+\phi_{\beta}\\
+\end{pmatrix}
+= \bm{\phi_{\alpha\beta}} = \bm{S} \bm{\phi_{uvw}}
 $$
 
 $$
